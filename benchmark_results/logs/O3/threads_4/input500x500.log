@@ -1,0 +1,8 @@
+Average time: 2548 microseconds
+Variance: 14089 microseconds
+Std Dev: 118.697 microseconds
+----------------------------------
+Optimization: O3
+Number of threads: 4
+Finished processing: input500x500.bmp
+==================================

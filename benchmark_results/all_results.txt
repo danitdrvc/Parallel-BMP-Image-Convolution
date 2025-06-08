@@ -1,0 +1,642 @@
+Summary of performance
+==================================
+Average time: 8 microseconds
+Variance: 347 microseconds
+Std Dev: 18.6279 microseconds
+----------------------------------
+Optimization: O0
+Number of threads: 4
+Finished processing: input10x10.bmp
+==================================
+Average time: 18796 microseconds
+Variance: 3008134 microseconds
+Std Dev: 1734.4 microseconds
+----------------------------------
+Optimization: O0
+Number of threads: 4
+Finished processing: input500x500.bmp
+==================================
+Average time: 190 microseconds
+Variance: 871 microseconds
+Std Dev: 29.5127 microseconds
+----------------------------------
+Optimization: O0
+Number of threads: 4
+Finished processing: input50x50.bmp
+==================================
+Average time: 70540 microseconds
+Variance: 133736733 microseconds
+Std Dev: 11564.5 microseconds
+----------------------------------
+Optimization: O0
+Number of threads: 4
+Finished processing: input1000x1000.bmp
+==================================
+Average time: 249684 microseconds
+Variance: 1791870016 microseconds
+Std Dev: 42330.5 microseconds
+----------------------------------
+Optimization: O0
+Number of threads: 4
+Finished processing: input2000x2000.bmp
+==================================
+Average time: 11 microseconds
+Variance: 0 microseconds
+Std Dev: 0 microseconds
+----------------------------------
+Optimization: O0
+Number of threads: 1
+Finished processing: input10x10.bmp
+==================================
+Average time: 41622 microseconds
+Variance: 223938 microseconds
+Std Dev: 473.221 microseconds
+----------------------------------
+Optimization: O0
+Number of threads: 1
+Finished processing: input500x500.bmp
+==================================
+Average time: 426 microseconds
+Variance: 17387 microseconds
+Std Dev: 131.86 microseconds
+----------------------------------
+Optimization: O0
+Number of threads: 1
+Finished processing: input50x50.bmp
+==================================
+Average time: 167792 microseconds
+Variance: 7833273 microseconds
+Std Dev: 2798.8 microseconds
+----------------------------------
+Optimization: O0
+Number of threads: 1
+Finished processing: input1000x1000.bmp
+==================================
+Average time: 679417 microseconds
+Variance: 269519262 microseconds
+Std Dev: 16417 microseconds
+----------------------------------
+Optimization: O0
+Number of threads: 1
+Finished processing: input2000x2000.bmp
+==================================
+Average time: 11 microseconds
+Variance: 21 microseconds
+Std Dev: 4.58258 microseconds
+----------------------------------
+Optimization: O0
+Number of threads: 2
+Finished processing: input10x10.bmp
+==================================
+Average time: 21316 microseconds
+Variance: 1258495 microseconds
+Std Dev: 1121.83 microseconds
+----------------------------------
+Optimization: O0
+Number of threads: 2
+Finished processing: input500x500.bmp
+==================================
+Average time: 211 microseconds
+Variance: 1198 microseconds
+Std Dev: 34.6121 microseconds
+----------------------------------
+Optimization: O0
+Number of threads: 2
+Finished processing: input50x50.bmp
+==================================
+Average time: 89496 microseconds
+Variance: 265902556 microseconds
+Std Dev: 16306.5 microseconds
+----------------------------------
+Optimization: O0
+Number of threads: 2
+Finished processing: input1000x1000.bmp
+==================================
+Average time: 382941 microseconds
+Variance: 3565205395 microseconds
+Std Dev: 59709.3 microseconds
+----------------------------------
+Optimization: O0
+Number of threads: 2
+Finished processing: input2000x2000.bmp
+==================================
+Average time: 5 microseconds
+Variance: 1 microseconds
+Std Dev: 1 microseconds
+----------------------------------
+Optimization: O0
+Number of threads: 8
+Finished processing: input10x10.bmp
+==================================
+Average time: 10350 microseconds
+Variance: 4623704 microseconds
+Std Dev: 2150.28 microseconds
+----------------------------------
+Optimization: O0
+Number of threads: 8
+Finished processing: input500x500.bmp
+==================================
+Average time: 126 microseconds
+Variance: 37833 microseconds
+Std Dev: 194.507 microseconds
+----------------------------------
+Optimization: O0
+Number of threads: 8
+Finished processing: input50x50.bmp
+==================================
+Average time: 42020 microseconds
+Variance: 17653767 microseconds
+Std Dev: 4201.64 microseconds
+----------------------------------
+Optimization: O0
+Number of threads: 8
+Finished processing: input1000x1000.bmp
+==================================
+Average time: 166148 microseconds
+Variance: 30563808 microseconds
+Std Dev: 5528.45 microseconds
+----------------------------------
+Optimization: O0
+Number of threads: 8
+Finished processing: input2000x2000.bmp
+==================================
+Average time: 2 microseconds
+Variance: 22 microseconds
+Std Dev: 4.69042 microseconds
+----------------------------------
+Optimization: O3
+Number of threads: 4
+Finished processing: input10x10.bmp
+==================================
+Average time: 2548 microseconds
+Variance: 14089 microseconds
+Std Dev: 118.697 microseconds
+----------------------------------
+Optimization: O3
+Number of threads: 4
+Finished processing: input500x500.bmp
+==================================
+Average time: 26 microseconds
+Variance: 3 microseconds
+Std Dev: 1.73205 microseconds
+----------------------------------
+Optimization: O3
+Number of threads: 4
+Finished processing: input50x50.bmp
+==================================
+Average time: 10303 microseconds
+Variance: 9922 microseconds
+Std Dev: 99.6092 microseconds
+----------------------------------
+Optimization: O3
+Number of threads: 4
+Finished processing: input1000x1000.bmp
+==================================
+Average time: 37498 microseconds
+Variance: 42111320 microseconds
+Std Dev: 6489.32 microseconds
+----------------------------------
+Optimization: O3
+Number of threads: 4
+Finished processing: input2000x2000.bmp
+==================================
+Average time: 2 microseconds
+Variance: 0 microseconds
+Std Dev: 0 microseconds
+----------------------------------
+Optimization: O3
+Number of threads: 1
+Finished processing: input10x10.bmp
+==================================
+Average time: 5609 microseconds
+Variance: 28190 microseconds
+Std Dev: 167.899 microseconds
+----------------------------------
+Optimization: O3
+Number of threads: 1
+Finished processing: input500x500.bmp
+==================================
+Average time: 65 microseconds
+Variance: 190 microseconds
+Std Dev: 13.784 microseconds
+----------------------------------
+Optimization: O3
+Number of threads: 1
+Finished processing: input50x50.bmp
+==================================
+Average time: 22265 microseconds
+Variance: 47321 microseconds
+Std Dev: 217.534 microseconds
+----------------------------------
+Optimization: O3
+Number of threads: 1
+Finished processing: input1000x1000.bmp
+==================================
+Average time: 89151 microseconds
+Variance: 5925521 microseconds
+Std Dev: 2434.24 microseconds
+----------------------------------
+Optimization: O3
+Number of threads: 1
+Finished processing: input2000x2000.bmp
+==================================
+Average time: 4 microseconds
+Variance: 44 microseconds
+Std Dev: 6.63325 microseconds
+----------------------------------
+Optimization: O3
+Number of threads: 2
+Finished processing: input10x10.bmp
+==================================
+Average time: 2882 microseconds
+Variance: 178266 microseconds
+Std Dev: 422.216 microseconds
+----------------------------------
+Optimization: O3
+Number of threads: 2
+Finished processing: input500x500.bmp
+==================================
+Average time: 32 microseconds
+Variance: 61 microseconds
+Std Dev: 7.81025 microseconds
+----------------------------------
+Optimization: O3
+Number of threads: 2
+Finished processing: input50x50.bmp
+==================================
+Average time: 11866 microseconds
+Variance: 5897402 microseconds
+Std Dev: 2428.46 microseconds
+----------------------------------
+Optimization: O3
+Number of threads: 2
+Finished processing: input1000x1000.bmp
+==================================
+Average time: 52007 microseconds
+Variance: 164445972 microseconds
+Std Dev: 12823.6 microseconds
+----------------------------------
+Optimization: O3
+Number of threads: 2
+Finished processing: input2000x2000.bmp
+==================================
+Average time: 2 microseconds
+Variance: 0 microseconds
+Std Dev: 0 microseconds
+----------------------------------
+Optimization: O3
+Number of threads: 8
+Finished processing: input10x10.bmp
+==================================
+Average time: 1502 microseconds
+Variance: 274717 microseconds
+Std Dev: 524.135 microseconds
+----------------------------------
+Optimization: O3
+Number of threads: 8
+Finished processing: input500x500.bmp
+==================================
+Average time: 25 microseconds
+Variance: 8171 microseconds
+Std Dev: 90.3936 microseconds
+----------------------------------
+Optimization: O3
+Number of threads: 8
+Finished processing: input50x50.bmp
+==================================
+Average time: 6167 microseconds
+Variance: 4374441 microseconds
+Std Dev: 2091.52 microseconds
+----------------------------------
+Optimization: O3
+Number of threads: 8
+Finished processing: input1000x1000.bmp
+==================================
+Average time: 22640 microseconds
+Variance: 6829952 microseconds
+Std Dev: 2613.42 microseconds
+----------------------------------
+Optimization: O3
+Number of threads: 8
+Finished processing: input2000x2000.bmp
+==================================
+Average time: 3 microseconds
+Variance: 0 microseconds
+Std Dev: 0 microseconds
+----------------------------------
+Optimization: O1
+Number of threads: 4
+Finished processing: input10x10.bmp
+==================================
+Average time: 3654 microseconds
+Variance: 249610 microseconds
+Std Dev: 499.61 microseconds
+----------------------------------
+Optimization: O1
+Number of threads: 4
+Finished processing: input500x500.bmp
+==================================
+Average time: 56 microseconds
+Variance: 5309 microseconds
+Std Dev: 72.8629 microseconds
+----------------------------------
+Optimization: O1
+Number of threads: 4
+Finished processing: input50x50.bmp
+==================================
+Average time: 14005 microseconds
+Variance: 4967879 microseconds
+Std Dev: 2228.87 microseconds
+----------------------------------
+Optimization: O1
+Number of threads: 4
+Finished processing: input1000x1000.bmp
+==================================
+Average time: 59209 microseconds
+Variance: 48300796 microseconds
+Std Dev: 6949.88 microseconds
+----------------------------------
+Optimization: O1
+Number of threads: 4
+Finished processing: input2000x2000.bmp
+==================================
+Average time: 3 microseconds
+Variance: 0 microseconds
+Std Dev: 0 microseconds
+----------------------------------
+Optimization: O1
+Number of threads: 1
+Finished processing: input10x10.bmp
+==================================
+Average time: 9259 microseconds
+Variance: 38435 microseconds
+Std Dev: 196.048 microseconds
+----------------------------------
+Optimization: O1
+Number of threads: 1
+Finished processing: input500x500.bmp
+==================================
+Average time: 91 microseconds
+Variance: 280 microseconds
+Std Dev: 16.7332 microseconds
+----------------------------------
+Optimization: O1
+Number of threads: 1
+Finished processing: input50x50.bmp
+==================================
+Average time: 37877 microseconds
+Variance: 1583024 microseconds
+Std Dev: 1258.18 microseconds
+----------------------------------
+Optimization: O1
+Number of threads: 1
+Finished processing: input1000x1000.bmp
+==================================
+Average time: 151748 microseconds
+Variance: 49710724 microseconds
+Std Dev: 7050.58 microseconds
+----------------------------------
+Optimization: O1
+Number of threads: 1
+Finished processing: input2000x2000.bmp
+==================================
+Average time: 3 microseconds
+Variance: 0 microseconds
+Std Dev: 0 microseconds
+----------------------------------
+Optimization: O1
+Number of threads: 2
+Finished processing: input10x10.bmp
+==================================
+Average time: 5278 microseconds
+Variance: 970324 microseconds
+Std Dev: 985.05 microseconds
+----------------------------------
+Optimization: O1
+Number of threads: 2
+Finished processing: input500x500.bmp
+==================================
+Average time: 46 microseconds
+Variance: 129 microseconds
+Std Dev: 11.3578 microseconds
+----------------------------------
+Optimization: O1
+Number of threads: 2
+Finished processing: input50x50.bmp
+==================================
+Average time: 20881 microseconds
+Variance: 14310670 microseconds
+Std Dev: 3782.94 microseconds
+----------------------------------
+Optimization: O1
+Number of threads: 2
+Finished processing: input1000x1000.bmp
+==================================
+Average time: 83192 microseconds
+Variance: 221299191 microseconds
+Std Dev: 14876.1 microseconds
+----------------------------------
+Optimization: O1
+Number of threads: 2
+Finished processing: input2000x2000.bmp
+==================================
+Average time: 30 microseconds
+Variance: 22733 microseconds
+Std Dev: 150.775 microseconds
+----------------------------------
+Optimization: O1
+Number of threads: 8
+Finished processing: input10x10.bmp
+==================================
+Average time: 2020 microseconds
+Variance: 81431 microseconds
+Std Dev: 285.361 microseconds
+----------------------------------
+Optimization: O1
+Number of threads: 8
+Finished processing: input500x500.bmp
+==================================
+Average time: 42 microseconds
+Variance: 12361 microseconds
+Std Dev: 111.18 microseconds
+----------------------------------
+Optimization: O1
+Number of threads: 8
+Finished processing: input50x50.bmp
+==================================
+Average time: 8341 microseconds
+Variance: 1880393 microseconds
+Std Dev: 1371.27 microseconds
+----------------------------------
+Optimization: O1
+Number of threads: 8
+Finished processing: input1000x1000.bmp
+==================================
+Average time: 32426 microseconds
+Variance: 1598420 microseconds
+Std Dev: 1264.29 microseconds
+----------------------------------
+Optimization: O1
+Number of threads: 8
+Finished processing: input2000x2000.bmp
+==================================
+Average time: 2 microseconds
+Variance: 9 microseconds
+Std Dev: 3 microseconds
+----------------------------------
+Optimization: O2
+Number of threads: 4
+Finished processing: input10x10.bmp
+==================================
+Average time: 2308 microseconds
+Variance: 161724 microseconds
+Std Dev: 402.149 microseconds
+----------------------------------
+Optimization: O2
+Number of threads: 4
+Finished processing: input500x500.bmp
+==================================
+Average time: 24 microseconds
+Variance: 54 microseconds
+Std Dev: 7.34847 microseconds
+----------------------------------
+Optimization: O2
+Number of threads: 4
+Finished processing: input50x50.bmp
+==================================
+Average time: 10192 microseconds
+Variance: 14693 microseconds
+Std Dev: 121.215 microseconds
+----------------------------------
+Optimization: O2
+Number of threads: 4
+Finished processing: input1000x1000.bmp
+==================================
+Average time: 38136 microseconds
+Variance: 32647562 microseconds
+Std Dev: 5713.8 microseconds
+----------------------------------
+Optimization: O2
+Number of threads: 4
+Finished processing: input2000x2000.bmp
+==================================
+Average time: 2 microseconds
+Variance: 0 microseconds
+Std Dev: 0 microseconds
+----------------------------------
+Optimization: O2
+Number of threads: 1
+Finished processing: input10x10.bmp
+==================================
+Average time: 5442 microseconds
+Variance: 13671 microseconds
+Std Dev: 116.923 microseconds
+----------------------------------
+Optimization: O2
+Number of threads: 1
+Finished processing: input500x500.bmp
+==================================
+Average time: 59 microseconds
+Variance: 79 microseconds
+Std Dev: 8.88819 microseconds
+----------------------------------
+Optimization: O2
+Number of threads: 1
+Finished processing: input50x50.bmp
+==================================
+Average time: 21938 microseconds
+Variance: 289249 microseconds
+Std Dev: 537.819 microseconds
+----------------------------------
+Optimization: O2
+Number of threads: 1
+Finished processing: input1000x1000.bmp
+==================================
+Average time: 89138 microseconds
+Variance: 1993718 microseconds
+Std Dev: 1411.99 microseconds
+----------------------------------
+Optimization: O2
+Number of threads: 1
+Finished processing: input2000x2000.bmp
+==================================
+Average time: 2 microseconds
+Variance: 4 microseconds
+Std Dev: 2 microseconds
+----------------------------------
+Optimization: O2
+Number of threads: 2
+Finished processing: input10x10.bmp
+==================================
+Average time: 2788 microseconds
+Variance: 8324 microseconds
+Std Dev: 91.236 microseconds
+----------------------------------
+Optimization: O2
+Number of threads: 2
+Finished processing: input500x500.bmp
+==================================
+Average time: 47 microseconds
+Variance: 2375 microseconds
+Std Dev: 48.734 microseconds
+----------------------------------
+Optimization: O2
+Number of threads: 2
+Finished processing: input50x50.bmp
+==================================
+Average time: 12040 microseconds
+Variance: 5875630 microseconds
+Std Dev: 2423.97 microseconds
+----------------------------------
+Optimization: O2
+Number of threads: 2
+Finished processing: input1000x1000.bmp
+==================================
+Average time: 45185 microseconds
+Variance: 11740321 microseconds
+Std Dev: 3426.42 microseconds
+----------------------------------
+Optimization: O2
+Number of threads: 2
+Finished processing: input2000x2000.bmp
+==================================
+Average time: 4 microseconds
+Variance: 241 microseconds
+Std Dev: 15.5242 microseconds
+----------------------------------
+Optimization: O2
+Number of threads: 8
+Finished processing: input10x10.bmp
+==================================
+Average time: 1469 microseconds
+Variance: 1722028 microseconds
+Std Dev: 1312.26 microseconds
+----------------------------------
+Optimization: O2
+Number of threads: 8
+Finished processing: input500x500.bmp
+==================================
+Average time: 16 microseconds
+Variance: 126 microseconds
+Std Dev: 11.225 microseconds
+----------------------------------
+Optimization: O2
+Number of threads: 8
+Finished processing: input50x50.bmp
+==================================
+Average time: 5851 microseconds
+Variance: 1795676 microseconds
+Std Dev: 1340.03 microseconds
+----------------------------------
+Optimization: O2
+Number of threads: 8
+Finished processing: input1000x1000.bmp
+==================================
+Average time: 22688 microseconds
+Variance: 8663686 microseconds
+Std Dev: 2943.41 microseconds
+----------------------------------
+Optimization: O2
+Number of threads: 8
+Finished processing: input2000x2000.bmp
+==================================

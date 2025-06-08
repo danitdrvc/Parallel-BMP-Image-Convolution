@@ -1,0 +1,26 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "label": "Build with GCC (WSL)",
+        "type": "shell",
+        "command": "g++",
+        "args": [
+          "-O3",
+          "-mavx2",
+          "-fopenmp",
+          "-o",
+          "convolve",
+          "convolve.cpp"
+        ],
+        "group": {
+          "kind": "build",
+          "isDefault": true
+        },
+        "problemMatcher": [],
+        "options": {
+          "cwd": "${workspaceFolder}"
+        }
+      }
+    ]
+  }
